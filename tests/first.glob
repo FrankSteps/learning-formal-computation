@@ -1,0 +1,9 @@
+DIGEST 914c539e51c89a470e95e61b0e5c8acc
+Ffirst
+prf 8:15 <> plus_0_r
+R28:30 Coq.Init.Datatypes <> nat ind
+binder 26:26 <> n:1
+R38:40 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R34:36 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R33:33 first <> n:1 var
+R41:41 first <> n:1 var
