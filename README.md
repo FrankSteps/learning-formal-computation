@@ -40,6 +40,9 @@ Abaixo estão alguns dos principais repositórios que servirão como base para a
 
 ```
 
+## Confira meu material de estudo principal
+[Software Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html)
+
 ## Notes
 
 Rocq não permite que nomes de arquivos comecem com números ou contenham hífens.  
