@@ -4,6 +4,7 @@ Estou iniciando meus estudos em **computação teórica** e **formalização mat
 
 Embora **ROCQ (antigo Coq)** seja o foco principal, o estudo não se limitará apenas a essa ferramenta. **Programação funcional, linguagens formais, autômatos, cálculo lambda e outros assuntos relacionados à essência da ciência da computação** também serão abordados posteriormente neste repositório.
 
+
 ## Confira outros repositórios relacionados à computação teórica
 
 Nos últimos meses em que estive ativo no GitHub, compartilhei **projetos pessoais, trabalhos de disciplinas da faculdade e projetos desenvolvidos para a FnEsc**, entre outros.  
@@ -12,13 +13,34 @@ Abaixo estão alguns dos principais repositórios que servirão como base para a
 - [Aprendendo o paradigma funcional com Haskell](https://github.com/FrankSteps/Learning_Functional_Programming)
 - [Aprendendo sobre a máquina de Turing com um simulador online](https://github.com/FrankSteps/turing-machine-experiments)
 - [Experimento com cálculo diferencial e integral aplicado com Haskell](https://github.com/FrankSteps/integrals-in-haskell)
-- [Meu simulador em C++ com Raylib para interface gráfica](https://github.com/FrankSteps/Apple-juice-learning-board-simulator)
+- [Meu simulador da placa Apple Juice em C++ com Raylib](https://github.com/FrankSteps/Apple-juice-learning-board-simulator)
 
+## Árvore de arquivos 
 
-## Nota
+```
+.
+├── LICENSE
+├── README.md
+├── para-curiosos                   # Compartilho sobre o assunto sem me aprofundar
+│   └── helloworld.v
+└── src
+    ├── formal-language-theory      # Aqui ficam meus estudos sobre linguagens formais
+    │   └── Notas de Aula.pdf
+    ├── lambda-calculus             # Aqui ficam meus estudos sobre lambda calculus
+    │   └── introduction.pdf
+    └── rocq                        # Aqui ficam meus estudos sobre Rocq Proof
+        ├── 01-fundamentos
+        │   ├── a_tipos.v
+        │   └── b_definicoes.v
+        ├── 02-funcoes
+            └── a_recursao.v
+        ├── 03-provas
+        ├── 04-estruturas_dados
+        └── 05-tipos_dependentes
 
-Uma característica pessoal da minha forma de estudar é buscar conexões entre diferentes áreas do conhecimento. Tenho grande satisfação quando consigo utilizar conhecimentos de uma área para compreender ou descobrir algo em outra área (_mesmo que sejam bem longe uma da outra_).
+```
 
-Por isso, não estranhe se eu mencionar conceitos que, à primeira vista, parecem não ter relação direta com o assunto em estudo. Essa é a forma como gosto de aprender: **buscando conexões**.
+## Notes
 
-De certa forma, essa abordagem reflete o próprio funcionamento do cérebro humano: uma rede de neurônios que trocam informações continuamente, formando associações e padrões, mesmo sem contato físico direto entre si.
+Rocq não permite que nomes de arquivos comecem com números ou contenham hífens.  
+Para evitar problemas, utilizarei a ordem alfabética na organização dos arquivos e adotarei esse padrão em todo o repositório.

@@ -3,7 +3,7 @@
     
     [true, false]    -> tipo: bool
     [1, 2, 3, ...]   -> tipo: nat
-    ["Hello, coq!"]  -> tipo: string
+    ["Hello, rocq!"] -> tipo: string
 
     Com rocq, se fizermos:
     f : nat -> nat
