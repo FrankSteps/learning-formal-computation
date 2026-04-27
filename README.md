@@ -1,6 +1,6 @@
 # Aprendendo ROCQ e formalização matemática de programas
 
-Estou iniciando meus estudos em **computação teórica** e **formalização matemática de programas**. Este estudo servirá como base para compreender melhor **paradigmas de programação, compiladores e verificação de sistemas críticos**.
+Estou iniciando meus estudos em **computação teórica** e **formalização matemática de programas** junto com o meu amigo [Guilherme Amâncio](https://github.com/guilhermeamancio). Este estudo servirá como base para compreender melhor **paradigmas de programação, compiladores e verificação de sistemas críticos**.
 
 Embora **ROCQ (antigo Coq)** seja o foco principal, o estudo não se limitará apenas a essa ferramenta. **Programação funcional, linguagens formais, autômatos, cálculo lambda e outros assuntos relacionados à essência da ciência da computação** também serão abordados posteriormente neste repositório.
 
@@ -18,7 +18,7 @@ Abaixo estão alguns dos principais repositórios que servirão como base para a
 ## Árvore de arquivos 
 
 ```
-.
+learning-formal-computation
 ├── LICENSE
 ├── README.md
 ├── para-curiosos                   # Compartilho sobre o assunto sem me aprofundar
@@ -40,10 +40,16 @@ Abaixo estão alguns dos principais repositórios que servirão como base para a
 
 ```
 
-## Confira meu material de estudo principal
+## Confira os materiais de estudo
 [Software Foundations](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html)
+[YouTube Rocq Playlist](https://www.youtube.com/playlist?list=PLbxwNdzI9xHOhFNgowaQAFN9sFNS5O9YT)
 
 ## Notes
 
 Rocq não permite que nomes de arquivos comecem com números ou contenham hífens.  
-Para evitar problemas, utilizarei a ordem alfabética na organização dos arquivos e adotarei esse padrão em todo o repositório.
+Para evitar problemas, utilizaremos a ordem alfabética na organização dos arquivos e adotaremos esse padrão em todo o repositório.
+
+
+## Colaboradores
+| [<img src="https://avatars.githubusercontent.com/u/177877856?v=4" width="115"><br><sub>@franksteps</sub>](https://github.com/franksteps) | [<img src="https://avatars.githubusercontent.com/u/184353794?v=4" width="115"><br><sub>@franksteps</sub>](https://github.com/guilhermeamancio) |
+| :---: | :---: |
