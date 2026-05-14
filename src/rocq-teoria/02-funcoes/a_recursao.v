@@ -6,8 +6,10 @@
 
     "Ah, mas o que é o paradigma funcional?"
     kk
-*)
 
+    Autor: @franksteps
+    Data: 2026-04
+*)
 
 (*
     Fixpoint é a notação para funções recursivas. 

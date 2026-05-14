@@ -1,5 +1,8 @@
 (*
     Defina as portas lógicas andB, orB, notB, xorB e nandB utilizando Rocq utilizando Definition
+
+    Autor: @franksteps
+    Data: 2026-05
 *)
 
 (*porta AND*)

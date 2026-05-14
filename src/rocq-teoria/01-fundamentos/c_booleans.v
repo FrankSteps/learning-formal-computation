@@ -1,3 +1,8 @@
+(*
+    Autor: @franksteps
+    Data: 2026-04
+*)
+
 Definition andB (b_1 : bool) (b_2 : bool) : bool :=
     match b_1 with
     | true =>
