@@ -1,5 +1,8 @@
 (*
     Teste do primeiro tópico do livro 'Software foundations'
+
+    Autor: @franksteps
+    Data: 2026-04
 *)
 
 Inductive day : type :=

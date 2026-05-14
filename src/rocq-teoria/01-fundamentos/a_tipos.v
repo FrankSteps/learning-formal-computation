@@ -12,6 +12,9 @@
     durante a compilação e, caso em algum momento essa regra seja quebrada, o compilador reclama.
 
     motivo: segurança
+
+    Autor: @franksteps
+    Data: 2026-04
 *)
 
 

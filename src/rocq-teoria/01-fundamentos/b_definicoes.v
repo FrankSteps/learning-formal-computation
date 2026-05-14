@@ -7,6 +7,9 @@
     Detalhe: Essa noção provém do Cálculo Lambda, que é a base matemática teórica para o paradigma funcional.
 
     Com definition é possível criar um termo e associá-lo a um nome.
+
+    Autor: @franksteps
+    Data: 2026-04
 *)
 
 From Stdlib Require Import String.
