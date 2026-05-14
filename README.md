@@ -55,12 +55,6 @@ learning-formal-computation/
 5. Criar um recurso educacional acessível para aprender teoria da computação
 
 
-## 👥 Colaboradores
-
-| [<img src="https://avatars.githubusercontent.com/u/177877856?v=4" width="115"><br><sub>@franksteps</sub>](https://github.com/franksteps) | [<img src="https://avatars.githubusercontent.com/u/184353794?v=4" width="115"><br><sub>@GuilhermeAmancio</sub>](https://github.com/GuilhermeAmancio) |
-| :---: | :---: |
-
-
 ## 💬 Dúvidas ou Sugestões?
 
 - Abra uma **Issue** neste repositório
@@ -182,3 +176,9 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 O diretório `para-curiosos` foi uma iniciativa minha ([`@franksteps`](https://github.com/franksteps)) para abordar alguns aspectos peculiares do ROCQ sem me aprofundar excessivamente no assunto. A ideia surgiu porque acredito que muitas pessoas, ao verem “ROCQ Proof Assistant” como linguagem principal do projeto, sintam curiosidade em entender do que se trata. Se você é do tipo curioso, seja muito bem-vindo!
 
 Aliás, recomendo dar uma olhada em como fica o clássico “Hello, World!” em ROCQ Proof Assistant. você pode ver isso [clicando aqui](para-curiosos/a_helloworld.v).
+
+
+## 👥 Colaboradores
+
+| [<img src="https://avatars.githubusercontent.com/u/177877856?v=4" width="115"><br><sub>@franksteps</sub>](https://github.com/franksteps) | [<img src="https://avatars.githubusercontent.com/u/184353794?v=4" width="115"><br><sub>@GuilhermeAmancio</sub>](https://github.com/GuilhermeAmancio) |
+| :---: | :---: |
